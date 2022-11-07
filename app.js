@@ -9,7 +9,7 @@ const app = Vue.createApp({
 
     methods:{
         Alert(){
-            return alert("If you want someone to kill Putin, click Ok")
+            return alert("Do you like Italian food? If yes, click ok")
         },
 
         setName(event) {
